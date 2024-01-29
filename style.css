@@ -23,7 +23,6 @@ body {
     background-size: cover;
     font-family: "Roboto Condensed", serif;
     color: rgb(93, 143, 88);
-    image-rendering: optimizeQuality;
 }
 
 .google-font {
