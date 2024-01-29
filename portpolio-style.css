@@ -115,11 +115,11 @@ h1 {
     }
 
     nav li {
-        margin: 5px;
+        margin: 3px;
         font-size: 18px;
         text-align: center;
-        width: 100%;
-        justify-content: center;
+        width: 80%;
+       justify-content: center;
     }
 
     .border {
